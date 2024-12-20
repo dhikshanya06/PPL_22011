@@ -55,3 +55,21 @@
         </li>
     </ul>
 
+ <h3>Lab 4: Tuples, Lists, and Recursion</h3>
+<ul>
+    <li><strong>Topics Covered:</strong>
+        <ul>
+            <li>Manipulating tuples (e.g., swapping elements)</li>
+            <li>List processing (e.g., filtering, transformations, zipping)</li>
+            <li>Recursive functions for reversing lists and analyzing data</li>
+            <li>Managing structured data (e.g., student records)</li>
+        </ul>
+    </li>
+    <li><strong>Highlights:</strong>
+        <ul>
+            <li>Implementing higher-order functions like custom <code>zipWith</code></li>
+            <li>Calculating averages and processing complex data structures</li>
+            <li>Enhancing functional programming skills through recursion and composition</li>
+        </ul>
+    </li>
+</ul>
