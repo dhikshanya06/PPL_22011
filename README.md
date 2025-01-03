@@ -73,3 +73,24 @@
         </ul>
     </li>
 </ul>
+
+<h3>Lab 5: Pattern Matching and Recursion</h3>
+<ul>
+    <li><strong>Topics Covered:</strong>
+        <ul>
+            <li>Simple pattern matching with integers and lists</li>
+            <li>Pattern matching on tuples</li>
+            <li>Working with custom data types</li>
+            <li>List processing with recursion</li>
+            <li>Multiple case matching</li>
+        </ul>
+    </li>
+    <li><strong>Highlights:</strong>
+        <ul>
+            <li>Understanding pattern matching with integers, lists, and tuples</li>
+            <li>Using recursion for list processing</li>
+            <li>Exploring how to match on custom data types</li>
+            <li>Handling multiple patterns and cases for effective matching</li>
+        </ul>
+    </li>
+</ul>
