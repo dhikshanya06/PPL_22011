@@ -94,3 +94,24 @@
         </ul>
     </li>
 </ul>
+
+<h3>Lab 6: Higher-Order Functions and Currying</h3>
+<ul>
+    <li><strong>Topics Covered:</strong>
+        <ul>
+            <li>Currying and function composition</li>
+            <li>Using map, filter, and fold operations</li>
+            <li>Combining map, filter, and fold for complex transformations</li>
+            <li>Lambda expressions for concise function definitions</li>
+            <li>Using IO monads for user interaction</li>
+        </ul>
+    </li>
+    <li><strong>Highlights:</strong>
+        <ul>
+            <li>Mastering higher-order functions like map, filter, and fold</li>
+            <li>Understanding and applying currying and function composition</li>
+            <li>Using lambda expressions for efficient coding</li>
+            <li>Implementing real-world tasks with functional programming techniques</li>
+        </ul>
+    </li>
+</ul>
