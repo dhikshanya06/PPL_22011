@@ -115,3 +115,25 @@
         </ul>
     </li>
 </ul>
+
+ <h3>Lab 7: Rust Programming Basics</h3>
+ <ul>
+    <li><strong>Topics Covered:</strong>
+        <ul>
+            <li>Data Types and Variables</li>
+            <li>Arithmetic Operations</li>
+            <li>Conditional Statements (If-Else)</li>
+            <li>Loops (For, While)</li>
+            <li>Using Ranges and Step Iterations</li>
+        </ul>
+   </li>
+    <li><strong>Highlights:</strong>
+        <ul>
+            <li>Understanding Rust data types and variable declaration</li>
+            <li>Performing arithmetic operations and printing results</li>
+            <li>Using conditional statements for decision-making</li>
+            <li>Implementing loops to process numbers efficiently</li>
+            <li>Working with ranges and step-by-step iteration</li>
+        </ul>
+    </li>
+</ul>
